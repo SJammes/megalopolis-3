@@ -1,0 +1,5 @@
+﻿"Place H-ID"	"Place Record Title"	"Place name"	"Place type"	Country	"Location (mappable)"	"Person H-ID"	"Person Record Title"	"Birth date"	"Birth date (temporal)"	"Short description"	Honorific	"Person type"	"Person role"	"Country of birth"	"Person Record Title"
+2	Megalopolis	Megalopolis	Administrative	Greece	"POINT(22.133246 37.4001741)"	1	critolaos	"invalid temporal object"	"200 bc"	"philosopher from Megalopolis sent by his city like ambassador"	Mr	Historical	ambassador		critolaos
+4	Achaia	Achaia	Administrative	Greece											
+5	Rome	Rome	Administrative	Italy	"POINT(12.49225411 41.88675567)"	1	critolaos	"invalid temporal object"	"200 bc"	"philosopher from Megalopolis sent by his city like ambassador"	Mr	Historical	ambassador		critolaos
+6	Macedonia	Macedonia	Administrative	"Macedonia, Frmr Yugoslav Rep. of"											
